@@ -1,0 +1,91 @@
+2024-01-04 13:39:45,014:INFO:Starting data storage process...
+2024-01-04 13:39:45,019:INFO:Data stored successfully.
+2024-01-04 13:39:45,019:INFO:Data storage process completed.
+2024-01-04 13:39:45,019:INFO:Starting data training process...
+2024-01-04 13:39:45,019:INFO:Data trained successfully.
+2024-01-04 13:39:45,020:INFO:Data training process completed.
+2024-01-04 13:41:10,548:INFO:Starting data storage process...
+2024-01-04 13:41:10,548:INFO:Data stored successfully.
+2024-01-04 13:41:10,548:INFO:Data storage process completed.
+2024-01-04 13:41:10,548:INFO:Starting data training process...
+2024-01-04 13:41:10,548:INFO:Data trained successfully.
+2024-01-04 13:41:10,548:INFO:Data training process completed.
+2024-01-04 13:41:45,381:INFO:Stores with initially missing (NA) values for competitor distance: []
+2024-01-04 13:42:26,546:INFO:Starting data storage process...
+2024-01-04 13:42:26,547:INFO:Data stored successfully.
+2024-01-04 13:42:26,547:INFO:Data storage process completed.
+2024-01-04 13:42:26,548:INFO:Starting data training process...
+2024-01-04 13:42:26,548:INFO:Data trained successfully.
+2024-01-04 13:42:26,549:INFO:Data training process completed.
+2024-01-04 13:59:18,148:INFO:Starting data storage process...
+2024-01-04 13:59:18,150:INFO:Data stored successfully.
+2024-01-04 13:59:18,150:INFO:Data storage process completed.
+2024-01-04 13:59:18,150:INFO:Starting data training process...
+2024-01-04 13:59:18,150:INFO:Data trained successfully.
+2024-01-04 13:59:18,151:INFO:Data training process completed.
+2024-01-04 14:03:42,392:INFO:Stores with initially missing (NA) values for competitor distance: []
+2024-01-04 14:09:06,511:INFO:Stores with initially missing (NA) values for competitor distance: []
+2024-01-04 14:09:11,510:INFO:Stores with initially missing (NA) values for competitor distance: []
+2024-01-04 14:10:14,801:INFO:Stores with initially missing (NA) values for competitor distance: []
+2024-01-04 14:12:46,046:INFO:Stores with initially missing (NA) values for competitor distance: []
+2024-01-04 14:16:10,937:INFO:Starting data storage process...
+2024-01-04 14:16:10,939:INFO:Data stored successfully.
+2024-01-04 14:16:10,939:INFO:Data storage process completed.
+2024-01-04 14:16:10,940:INFO:Starting data training process...
+2024-01-04 14:16:10,940:INFO:Data trained successfully.
+2024-01-04 14:16:10,940:INFO:Data training process completed.
+2024-01-04 19:23:39,336:INFO:Starting data storage process...
+2024-01-04 19:23:39,350:INFO:Data stored successfully.
+2024-01-04 19:23:39,350:INFO:Data storage process completed.
+2024-01-04 19:23:39,350:INFO:Starting data training process...
+2024-01-04 19:23:39,350:INFO:Data trained successfully.
+2024-01-04 19:23:39,350:INFO:Data training process completed.
+2024-01-04 19:31:41,872:INFO:Stores with initially missing (NA) values for competitor distance: []
+2024-01-04 21:01:33,464:INFO:Data stored successfully.
+2024-01-04 21:01:33,469:INFO:Starting data storage process...
+2024-01-04 21:01:33,469:INFO:Data stored successfully.
+2024-01-04 21:01:33,469:INFO:Data storage process completed.
+2024-01-04 21:01:33,469:INFO:Starting data training process...
+2024-01-04 21:01:33,469:INFO:Data trained successfully.
+2024-01-04 21:01:33,470:INFO:Data training process completed.
+2024-01-04 21:16:19,599:INFO:Data trained successfully.
+2024-01-05 15:51:09,151:INFO:Data trained successfully.
+2024-01-05 15:51:16,449:INFO:Data trained successfully.
+2024-01-05 16:08:29,173:INFO:Data stored successfully.
+2024-01-05 16:08:29,174:INFO:Starting data storage process...
+2024-01-05 16:08:29,175:INFO:Data stored successfully.
+2024-01-05 16:08:29,175:INFO:Data storage process completed.
+2024-01-05 16:08:29,175:INFO:Starting data training process...
+2024-01-05 16:08:29,175:INFO:Data trained successfully.
+2024-01-05 16:08:29,175:INFO:Data training process completed.
+2024-01-05 16:22:41,206:INFO:Data stored successfully.
+2024-01-05 16:22:41,208:INFO:Starting data storage process...
+2024-01-05 16:22:41,208:INFO:Data stored successfully.
+2024-01-05 16:22:41,208:INFO:Data storage process completed.
+2024-01-05 16:22:41,208:INFO:Starting data training process...
+2024-01-05 16:22:41,208:INFO:Data trained successfully.
+2024-01-05 16:22:41,208:INFO:Data training process completed.
+2024-01-05 16:22:42,786:DEBUG:cmd: where.exe tbb.dll
+cwd: None
+2024-01-05 16:22:42,956:DEBUG:Adding TBB (C:\Users\Admin\anaconda3\lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-01-05 16:22:42,996:INFO:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-01-05 16:22:43,065:DEBUG:input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpe97m2ae4\_chgd_i_.json
+2024-01-05 16:22:43,234:DEBUG:input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpe97m2ae4\40ozra2a.json
+2024-01-05 16:22:43,244:DEBUG:idx 0
+2024-01-05 16:22:43,244:DEBUG:running CmdStan, num_threads: None
+2024-01-05 16:22:43,244:DEBUG:CmdStan args: ['C:\\Users\\Admin\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=9884', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpe97m2ae4\\_chgd_i_.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpe97m2ae4\\40ozra2a.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpe97m2ae4\\prophet_model8o8iww5s\\prophet_model-20240105162243.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-01-05 16:22:43,244:INFO:Chain [1] start processing
+2024-01-05 16:22:43,650:INFO:Chain [1] done processing
+2024-01-05 16:22:47,152:DEBUG:cmd: where.exe tbb.dll
+cwd: None
+2024-01-05 16:22:47,319:DEBUG:TBB already found in load path
+2024-01-05 16:22:47,330:INFO:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+2024-01-05 16:22:47,373:DEBUG:input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpe97m2ae4\uk8349ob.json
+2024-01-05 16:22:47,571:DEBUG:input tempfile: C:\Users\Admin\AppData\Local\Temp\tmpe97m2ae4\8673jdg4.json
+2024-01-05 16:22:47,575:DEBUG:idx 0
+2024-01-05 16:22:47,575:DEBUG:running CmdStan, num_threads: None
+2024-01-05 16:22:47,575:DEBUG:CmdStan args: ['C:\\Users\\Admin\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=80927', 'data', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpe97m2ae4\\uk8349ob.json', 'init=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpe97m2ae4\\8673jdg4.json', 'output', 'file=C:\\Users\\Admin\\AppData\\Local\\Temp\\tmpe97m2ae4\\prophet_modelm0lkxzv8\\prophet_model-20240105162247.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-01-05 16:22:47,575:INFO:Chain [1] start processing
+2024-01-05 16:22:47,698:INFO:Chain [1] done processing
+2024-01-05 16:23:21,967:WARNING:From C:\Users\Admin\anaconda3\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
